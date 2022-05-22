@@ -1,0 +1,10 @@
+//MENU
+manager.addDocument('pt', '1', 'MENU1');
+manager.addDocument('pt', '2', 'MENU1');
+manager.addDocument('pt', '3', 'MENU1');
+
+
+manager.addAnswer(
+      'pt',
+       'MENU1',
+        ' 4 - teste \n 5 - teste \n 6 - teste');
